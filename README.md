@@ -11,7 +11,7 @@
 - Redux, Redux-toolkit, Recoil
 <br /><br />
 
-### 🌱 학습 중인 또는 학습해야 할 기술
+### 🌱 학습해야 할 기술 (학습 중인 기술)
 
 - Node.js, Express
 - TypeScript
