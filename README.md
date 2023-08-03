@@ -3,7 +3,7 @@
 🚀 제가 만든 웹/앱이 어떻게 보일지 상상하면서 작업하며, 유저가 좋아할 웹/앱을 만들고 싶습니다.
 <br /><br />
 
-### 👩‍💻 주요 기술 스택
+### 👨🏻‍💻 주요 기술 스택
 
 - <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/react native-1E96EB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white">
