@@ -25,4 +25,4 @@
 ## 🔗 연락처 및 링크
 
 - 이메일: tjsthrl1111@gmail.com
-- 노션(공부 기록): https://chojy010.tistory.com/
+- 블로그: https://chojy010.tistory.com/
