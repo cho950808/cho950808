@@ -1,4 +1,4 @@
-<h1 align="left">한 발 한 발 성장해가는 프론트 개발자입니다 <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a> </h1>
+<h1 align="left">한 발 한 발 성장중.. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 30%; border: none; vertical-align: top; text-align: center;">
@@ -15,11 +15,7 @@
         marital_status: "기혼",
         personality: "언제나 에너지가 넘치며 주변에 활력을 불어넣는 사람",
         philosophy: "하루의 시작은 커피 한 잔과 신나는 수다 떨기",
-        favorite_food: ["김치볶음밥", "된장찌개", "불고기"],
-        contacts: {
-            email: "<a href='mailto:tjsthrl1111@gmail.com'>Email</a>",
-            blog: "<a href='https://chojy010.tistory.com/'>Blog</a>"
-        }
+        favorite_food: ["김치볶음밥", "된장찌개", "불고기"]
     }
     </code>
     </pre>
@@ -27,14 +23,14 @@
   </tr>
 </table>
 
-<div align="right"> 
-    <a href="mailto:tjsthrl1111@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-tjsthrl1111@gmail.com-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:-tjsthrl1111@gmail.com"></a>
-    <a href="https://chojy010.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-03a57a?style=flat-square&color=000000&labelColor=000000&logo=blogger&link="></a>
-  </div>
+<div align="center">
+  <a href="mailto:tjsthrl1111@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://chojy010.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-03a57a?style=flat-square&color=000000&labelColor=000000&logo=blogger&link="></a>
+</div>
 
 
 <div align="center">
-    <br><br>
+    <br><br><br><br>
     <p style="font-size:20px;"><strong>Skills</strong></p>
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
