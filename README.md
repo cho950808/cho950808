@@ -23,6 +23,7 @@
 <div align="center">
   <a href="mailto:tjsthrl1111@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://chojy010.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-03a57a?style=flat-square&color=000000&labelColor=000000&logo=blogger&link="></a>
+  <a href="https://cho950808.github.io/next-js-portfolio"><img src="https://img.shields.io/badge/Portfolio-%20My%20Site-1abc9c?style=flat-square&logo=internet-explorer&logoColor=white" /></a>
 </div>
 
 
@@ -40,9 +41,8 @@
 </div>
 
 <div align="center">
-  <a href="https://dewith.co/"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=cho950808&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cho950808&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cho950808&hide=java,shell,python,c,scss,less,php,ruby&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" />
 </div>
-
 
 <br />
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
