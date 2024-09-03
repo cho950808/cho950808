@@ -9,10 +9,7 @@
     <code style="white-space: pre-wrap; word-wrap: break-word;">
     const info = {
         name: "재영",
-        gender: "남성",
         age: "만 29세",
-        location: "경기도",
-        marital_status: "기혼",
         personality: "언제나 에너지가 넘치며 주변에 활력을 불어넣는 사람",
         philosophy: "하루의 시작은 커피 한 잔과 신나는 수다 떨기",
         favorite_food: ["김치볶음밥", "된장찌개", "불고기"]
@@ -24,7 +21,7 @@
 </table>
 
 <div align="center">
-  <a href="mailto:tjsthrl1111@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:tjsthrl1111@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=flat-square&for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://chojy010.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-03a57a?style=flat-square&color=000000&labelColor=000000&logo=blogger&link="></a>
 </div>
 
