@@ -5,7 +5,7 @@
   <div>
     <a href="mailto:tjsthrl1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23DD0031.svg?&style=flat-square&for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://chojy010.tistory.com/"><img alt="Blog" src="https://img.shields.io/badge/-Blog-03a57a?style=flat-square&color=000000&labelColor=000000&logo=blogger&link="></a>
-    <a href="https://cho950808.github.io/next-js-portfolio"><img src="https://img.shields.io/badge/Portfolio-%20My%20Site-1abc9c?style=flat-square&logo=internet-explorer&logoColor=white" /></a>
+    <a href="https://cho950808.github.io"><img src="https://img.shields.io/badge/Portfolio-%20My%20Site-1abc9c?style=flat-square&logo=internet-explorer&logoColor=white" /></a>
   </div>
 </div>
 <br />
